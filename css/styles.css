@@ -2,7 +2,7 @@ header h1{
     color: cornflowerblue;
 }
 nav ul{
-padding: 0%;
+padding: 0;
 }
 nav ul li{
     float: left;
@@ -11,7 +11,7 @@ nav ul li{
 nav ul li a{
     display: block;
     padding: 5.rem 1.rem;
-    background-color: darkblue;
+    background-color: rgb(240, 177, 143);
 }
 main img{
     float: right;
@@ -21,4 +21,5 @@ main h1{
 }
 footer{
   text-align: center;
+  clear: both;
 }
