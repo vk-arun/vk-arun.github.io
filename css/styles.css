@@ -10,7 +10,7 @@ nav ul li{
 }
 nav ul li a{
     display: block;
-    padding: 5.rem 1.rem;
+    padding: .5rem 1rem;
     background-color: rgb(240, 177, 143);
 }
 main img{
