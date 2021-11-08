@@ -11,3 +11,4 @@ then((mydata)=> mydata.json())
     document.getElementById("pop").appendChild(sample);
 
 }).catch((err) => console.log(err));
+//trhrtyhjfgjfjjghf
