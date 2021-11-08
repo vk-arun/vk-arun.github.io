@@ -1,0 +1,25 @@
+@media only screen and (min-width: 960px){
+    /* header,footer,nav,main {max-width: 75rem; margin: auto;} */
+    div#headerWrapper{
+        background-image: url('../images/1600_400.jpg');
+        height: 400px;
+        background-size: cover;
+        background-position: center bottom;
+     }
+    nav ul{
+        padding-left: 2%;
+    }
+nav ul li{
+    flex-basis: auto;
+}
+nav a {
+    padding: .5rem 1rem;
+}
+main figure{
+    width: 30%;
+}
+div.news{
+    column-count: 3;
+}
+    
+}/*end od media query */

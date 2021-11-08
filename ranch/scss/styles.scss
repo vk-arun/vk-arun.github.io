@@ -1,0 +1,13 @@
+@import "normalize";
+
+@import "variables";
+
+@import "small";
+
+@media only screen and (min-width: 560px){
+@import "medium";
+}/*end od media query */
+
+@media only screen and (min-width: 960px){
+@import "large";
+}/*end od large query */
